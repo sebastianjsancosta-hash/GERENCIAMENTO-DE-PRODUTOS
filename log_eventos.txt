@@ -1,0 +1,1 @@
+[2025-11-28 13:00:50] - SUCESSO LOGIN: Usuário ID 3 logou.
